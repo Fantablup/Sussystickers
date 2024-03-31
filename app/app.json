@@ -1,5 +1,5 @@
 {
-  "version" : "1",
+  "version" : "2",
   "marked" : [
   {"name":"Main Market"  ,"link":"https://bynmin.no/market/?lng=nor","imageid":27},
   {"name":"Buy & Sell"   ,"link":"https://bynmin.no/market/start/buysell.php?lng=NOR","imageid":21},
