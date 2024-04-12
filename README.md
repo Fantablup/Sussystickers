@@ -10,6 +10,13 @@ Sussy Stickers are totally free.
 A very useful application, for anyone, and very user-friendly.
 <br/>
 <br/>
+PS! 
+<br/>
+The extra market form is not yet working. Waiting for the connection settings on the database server on the hosting.
+<br/>
+I will create a new version when it is done, and you just download, install and update the application.
+<br/>
+<br/>
 Features:
 <br/>
 Auto starts when the computer starts.
