@@ -1,4 +1,5 @@
 # SussyStickers
 A great sticker/post-it application for Windows, Linux and soon Mac
 
-More info and files coming soon...
+Download the install file, and run it.
+https://github.com/Fantablup/Sussystickers/blob/main/app/instsussystickers.exe
