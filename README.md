@@ -1,5 +1,18 @@
 # SussyStickers
-A great sticker/post-it application for Windows, Linux and soon Mac
+A great sticker/post-it application for Windows and soon Linux and Mac.
+
+This version is for Windows.
+Sussy Stickers are totally free.
+
+A very useful application, for anyone, and very user-friendly.
+
+Features:
+Auto starts when the computer starts.
+Categories
+Alarm
+Pops up when time is up
+Sounds on alarms
+Colors on notes.
 
 Download the install file, and run it.
 https://github.com/Fantablup/Sussystickers/raw/main/app/instsussystickers.exe
