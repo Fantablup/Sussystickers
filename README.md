@@ -28,12 +28,7 @@ Download the install file, and run it.
 <br/>
 https://github.com/Fantablup/Sussystickers/raw/main/app/instsussystickers.exe
 
-<br/>
 ![Image of Sussy Stickers](https://github.com/Fantablup/Sussystickers/blob/main/1.jpg)
-
-<br/>
 ![Image of Sussy Stickers](https://github.com/Fantablup/Sussystickers/blob/main/2.jpg)
-
-<br/>
 ![Image of Sussy Stickers](https://github.com/Fantablup/Sussystickers/blob/main/3.jpg)
 
