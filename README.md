@@ -1,4 +1,4 @@
-# SussyStickers
+# Sussy Stickers
 A great sticker/post-it application for Windows and soon Linux and Mac.
 <br/>
 <br/>
