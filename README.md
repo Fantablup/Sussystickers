@@ -16,8 +16,7 @@ The extra market form is now updated and working.
 Features:
 <br/>
 - Auto starts when the computer starts.
-<br/>
-- Categories.
+- - Categories.
 <br/>
 - Alarm.
 <br/>
