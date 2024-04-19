@@ -9,12 +9,9 @@ Sussy Stickers are totally free.
 <br/>
 A very useful application, for anyone, and very user-friendly.
 <br/>
+
 <br/>
-PS! 
-<br/>
-The extra market form is not yet working. Waiting for the connection settings on the database server on the hosting.
-<br/>
-I will create a new version when it is done, and you just download, install and update the application.
+The extra market form is now updated and working.
 <br/>
 <br/>
 Features:
@@ -30,7 +27,10 @@ Pops up when time is up
 Sounds on alarms
 <br/>
 Colors on notes.
-
+<br/>
+List all the newest ads from the external international marketplace system.
+<br/>
+<br/>
 Download the install file, and run it.
 <br/>
 https://github.com/Fantablup/Sussystickers/raw/main/app/instsussystickers.exe
