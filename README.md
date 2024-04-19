@@ -22,7 +22,6 @@ Features:
 - Colors on notes.
 - List all the newest ads from the external international marketplace system.
 <br/>
-<br/>
 Download the install file, and run it.
 <br/>
 https://github.com/Fantablup/Sussystickers/raw/main/app/instsussystickers.exe
