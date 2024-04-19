@@ -20,7 +20,7 @@ Features:
 - Pops up when time is up
 - Sounds on alarms.
 - Colors on notes.
-- List all the newest ads from the external international marketplace system.
+- List all the newest ads from the external international marketplace system(beta version).
 <br/>
 Download the install file, and run it.
 <br/>
