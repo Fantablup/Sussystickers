@@ -16,19 +16,19 @@ The extra market form is now updated and working.
 <br/>
 Features:
 <br/>
-Auto starts when the computer starts.
+- Auto starts when the computer starts.
 <br/>
-Categories
+- Categories.
 <br/>
-Alarm
+- Alarm.
 <br/>
-Pops up when time is up
+- Pops up when time is up
 <br/>
-Sounds on alarms
+- Sounds on alarms.
 <br/>
-Colors on notes.
+- Colors on notes.
 <br/>
-List all the newest ads from the external international marketplace system.
+- List all the newest ads from the external international marketplace system.
 <br/>
 <br/>
 Download the install file, and run it.
