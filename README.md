@@ -14,18 +14,12 @@ The extra market form is now updated and working.
 <br/>
 <br/>
 Features:
-<br/>
 - Auto starts when the computer starts.
-- - Categories.
-<br/>
+- Categories.
 - Alarm.
-<br/>
 - Pops up when time is up
-<br/>
 - Sounds on alarms.
-<br/>
 - Colors on notes.
-<br/>
 - List all the newest ads from the external international marketplace system.
 <br/>
 <br/>
