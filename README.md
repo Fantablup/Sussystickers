@@ -9,7 +9,6 @@ Sussy Stickers are totally free.
 <br/>
 A very useful application, for anyone, and very user-friendly.
 <br/>
-
 <br/>
 The extra market form is now updated and working.
 <br/>
